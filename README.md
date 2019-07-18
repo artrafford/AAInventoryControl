@@ -25,3 +25,12 @@ order_table
 	* quantity - int
 	* cost - decimal
 	* order_date - datetime
+
+shipping_addresses
+	* address_id - int
+	* address_name - varchar
+	* address_1 - varchar
+	* address_2 - varchar
+	* city - varchar
+	* state - varchar
+	* zip_code
