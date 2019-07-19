@@ -1,0 +1,5 @@
+cThresholdValue,500
+cRunLogFile,Runlog.csv
+cPath_LogsFolder,C:\RPA Logs\Tangoe\Inventory Control\Logs
+cPath_InProcessFilesFolder,C:\RPA Logs\Tangoe\Inventory Control\InProcess
+cPath_InputFilesFolder,C:\RPA Logs\Tangoe\Inventory Control\Inputs
